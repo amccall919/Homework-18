@@ -13,5 +13,7 @@ I used data from the 202410-citibike-tripdata_1.csv and 202410-citibike-tripdata
 
 ## Tableau Public Link
 The following is the link on Tableau Public to access my visualizations:
+[CLICK HERE!](https://www.citibikenyc.com/system-data](https://public.tableau.com/views/CitiBike_Viz_17306686351880/StartStations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-https://public.tableau.com/app/profile/amie.mccall/viz/CitiBike_Viz_17306686351880/Dashboard2
+### Key Insights
+
