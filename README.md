@@ -7,3 +7,6 @@ Since its launch in 2013, the Citi Bike program has built a comprehensive system
 
 
 The Tableau dashboard created here is designed to support a streamlined reporting process, offering a set of visualizations to deliver data insights to city officials.
+
+## Data Used
+I jused data from the 202410-citibike-tripdata.zip file. Specifically csv files 
