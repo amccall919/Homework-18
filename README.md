@@ -20,5 +20,6 @@ The following is the link on Tableau Public to access my visualizations:
 
 
 
-### Key Insights
+## Key Insights
+Using Tableau, I visualized the top 10 most popular starting and ending locations for riders. For October, the data revealed that classic bikes were more widely used than electric bikes, with October 20th being the busiest day for both bike types. The analysis also showed that members consistently used the bikes more frequently than casual riders. This project was an excellent learning experience, allowing me to transform data into meaningful visualizations and gain valuable insights.
 
