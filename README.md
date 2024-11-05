@@ -9,7 +9,7 @@ Since its launch in 2013, the Citi Bike program has built a comprehensive system
 The Tableau dashboard created here is designed to support a streamlined reporting process, offering a set of visualizations to deliver data insights to city officials.
 
 ## Data Used
-I used data from the 202410-citibike-tripdata_1.csv and 202410-citibike-tripdata_5.csv file. These files used data from October 2024. I was unable to use more than two data sets as the instructions stated that Tableau would have problems handling a large data file. So that is why I chose these two data files instead of trying to use data that covered an entire year. 
+I used data from the files 202410-citibike-tripdata_1.csv and 202410-citibike-tripdata_5.csv, both containing data from October 2024. Due to instructions indicating that Tableau might struggle with larger datasets, I opted to work with these two files instead of attempting to analyze data for the entire year. This approach allowed for more efficient processing and focused insights for the month of October.
 
 ## Tableau Public Link
 The following is the link on Tableau Public to access my visualizations:
